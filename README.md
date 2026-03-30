@@ -10,7 +10,7 @@
 
 
 
-Dashboard interativo e analítico para monitoramento de despesas com cartões de pagamento do Governo Federal Brasileiro (ano 2024). O projeto foca em transparência, detecção de anomalias e visualização de dados sênior.
+Dashboard interativo e analítico para monitoramento de despesas com cartões de pagamento do Governo Federal Brasileiro (ano 2024). O projeto foca em transparência, detecção de anomalias e visualização de dados.
 
 
 
