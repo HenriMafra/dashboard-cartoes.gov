@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#00D2FF"      # Azul Neon para destaques
+backgroundColor = "#0E1117"   # Fundo geral bem escuro
+secondaryBackgroundColor = "#262730" # Fundo dos menus e barras laterais
+textColor = "#FAFAFA"         # Texto claro
+font = "sans serif"
